@@ -1,2 +1,2 @@
 # CifraCesar_APS
- Desenvolvimentoi de criptografia e descriptografia em Pyhton
+Foi desenvolvido um código para criptografia e descriptografia em Python.
